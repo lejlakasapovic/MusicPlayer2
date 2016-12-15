@@ -28,7 +28,8 @@
         android:layout_height="300dp"
         android:layout_centerHorizontal="true"
         android:layout_below="@id/name"
-        android:background="@drawable/record" />
+        <!--android:background="@drawable/record" -->
+    />
 
 
     <TextView
@@ -41,6 +42,3 @@
         android:textSize="30sp"
         android:paddingTop="16dp"
         android:paddingBottom="16dp" />
-
-
-    <TextView
